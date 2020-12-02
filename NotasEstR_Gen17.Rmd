@@ -1,0 +1,10 @@
+---
+output: pdf_document
+title: Notas de Clase
+subtitle: Estadística y R
+urlcolor: blue
+author: Generación 17
+---
+
+# Clase 04 Dic 2019
+
