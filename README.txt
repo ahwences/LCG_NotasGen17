@@ -3,7 +3,6 @@ Notas colaborativas de las clases de Estadística y R hechas por los alumnos. El
 Recuerda que los pasos para empezar a colaborar son:
 1) De preferencia actualizar tu versión local del repositorio utilizando 'git pull origin main'.
 2) Realizar cambios locales en los archivos.
-3) Anunciar a git los cambios que queremos guardar utilizando el commando 'git add', por ejemplo para anunciar TODOS los cambios hechos
-(incluyendo la añadidura de todos los nuevos archivos encontrados) puedes usar 'git add .'
+3) Anunciar a git los cambios que queremos guardar utilizando el commando 'git add', por ejemplo para anunciar TODOS los cambios hechos (incluyendo la adición de todos los nuevos archivos encontrados) puedes usar 'git add .'
 4) Hacer un commit de los cambios anunciados en el paso anterior dentro de tu repositorio local con 'git commit -m *mensaje*'.
 5) Publicar tus cambios en el repositorio de github con 'git push' para que todos los puedan ver.
