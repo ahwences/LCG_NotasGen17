@@ -3,7 +3,7 @@ output: pdf_document
 title: Notas de Clase
 subtitle: Estadística y R
 urlcolor: blue
-author: Generación 17
+author: Generación 17, LCG
 ---
 
 # Clase 04 Dic 2019
